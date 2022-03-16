@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 작업 관련 내용 참고
+
+See [Naver Blog](https://blog.naver.com/wacks)
